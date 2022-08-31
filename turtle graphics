@@ -11,5 +11,5 @@ for e in range(10):
   kevin.forward(100)
   kevin.right(50)
   kevin.forward(100)
-  kevin.right(95)
+  kevin.right(94)
 kevin.end_fill
