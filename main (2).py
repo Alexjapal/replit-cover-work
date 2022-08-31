@@ -1,3 +1,4 @@
+```
 tally = 0
 x = ['hot', 'summer', 'hard', 'dry', 'simple', 'light', 'weak', 'male', 'sad', 'win', 'small', 'ignore', 'buy', 'succeed', 'reject', 'prevent', 'exclude']
 y = ['cold', 'winter', 'soft', 'wet', 'complex', 'darkness', 'strong', 'female', 'happy', 'lose', 'big', 'pay fasiattention', 'sell', 'fail', 'accept', 'allow', 'include']
@@ -14,3 +15,4 @@ for e in range(10):
     print("wrong the answer is", y[m[e]])
 print(x)
 print("you got", tally,"10")
+```
